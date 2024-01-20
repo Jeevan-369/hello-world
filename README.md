@@ -1,5 +1,4 @@
 # hello-world
-Hello World repository serving as a starting point for beginners in programming. Contains basic 'Hello, World!' examples in multiple programming languages, providing a quick and easy way to get started with coding. Ideal for those taking their first steps in learning different languages or exploring the basics of software development. 
 
 
 I'm a passionate Master of Computer Science student with a solid academic foundation and a knack for problem-solving. My journey in the world of computer science has equipped me with expertise in programming languages. I'm on the lookout for exciting internship or entry-level opportunities where I can put my skills to good use in a professional environment.
